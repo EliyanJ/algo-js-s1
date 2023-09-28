@@ -17,9 +17,9 @@ class Pokemon{
     
 
 }
-let PokemonFeu = new Pokemon("feuo", 100, 30, 450, 0.7)
+let PokemonFeu = new Pokemon("feuo", 105, 35, 440, 0.8)
 console.log(PokemonFeu)
-let PokemonGlace = new Pokemon("glaco",70, 50, 520, 0.8)
+let PokemonGlace = new Pokemon("glaco",70, 80, 570, 0.7)
 console.log(PokemonGlace)
 
 
