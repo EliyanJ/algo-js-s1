@@ -21,8 +21,7 @@ let PokemonFeu = new Pokemon("feuo", 100, 30, 450, 0.7)
 console.log(PokemonFeu)
 let PokemonGlace = new Pokemon("glaco",70, 50, 520, 0.8)
 console.log(PokemonGlace)
-let luck1 = 0
-let luck2 = 0
+
 
 while(PokemonFeu.hp > 0 && PokemonGlace.hp > 0){
     /* ici mettre une variable aléatoire pour chaque pokemon */
